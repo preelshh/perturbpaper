@@ -1,0 +1,5 @@
+,scPRINT2_CD4_act,pySCENIC_CD4_act,Perturb-seq_CD4_stim8hr,Perturb-seq_CD4_stim48hr
+scPRINT2_CD4_act,1.0,0.155,0.227,0.2334
+pySCENIC_CD4_act,0.155,1.0,0.0668,0.0724
+Perturb-seq_CD4_stim8hr,0.227,0.0668,1.0,0.631
+Perturb-seq_CD4_stim48hr,0.2334,0.0724,0.631,1.0

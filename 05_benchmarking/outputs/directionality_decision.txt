@@ -1,0 +1,4 @@
+Confirmed orientation: row=TF, col=target
+Basis: higher pySCENIC edge overlap on CD4_rest
+  row=TF, col=target: 96 overlapping edges
+  col=TF, row=target: 11 overlapping edges

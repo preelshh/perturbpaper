@@ -1,0 +1,5 @@
+cell_state,n_pyscenic_tfs,n_scprint2_tfs,n_shared_tfs,pct_pyscenic_tfs_shared
+CD4_rest,235,982,180,76.6
+CD4_act,235,973,181,77.02
+CD8_rest,235,999,174,74.04
+CD8_act,235,1017,188,80.0

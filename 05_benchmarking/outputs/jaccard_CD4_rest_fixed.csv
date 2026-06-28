@@ -1,0 +1,4 @@
+,scPRINT2_CD4_rest,pySCENIC_CD4_rest,Perturb-seq_CD4_rest
+scPRINT2_CD4_rest,1.0,0.1134,0.2408
+pySCENIC_CD4_rest,0.1134,1.0,0.0385
+Perturb-seq_CD4_rest,0.2408,0.0385,1.0

@@ -1,0 +1,4 @@
+condition,n_edges_unfiltered,n_edges_filtered,edges_removed,pct_edges_retained,n_tfs_unfiltered,n_tfs_filtered,tfs_lost
+Rest,5767641,28836,5738805,0.4999617694651938,561,409,152
+Stim8hr,6127476,33569,6093907,0.5478438430440201,596,429,167
+Stim48hr,5921856,28521,5893335,0.4816226534383815,576,424,152

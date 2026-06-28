@@ -1,0 +1,5 @@
+network,comparison,n_rest,n_act,n_conserved,n_rest_only,n_act_only,pct_conserved_of_rest
+scPRINT2,CD4,24648,24648,7676,16972,16972,31.14
+scPRINT2,CD8,24648,24648,4243,20405,20405,17.21
+Perturb-seq,Rest_vs_Stim8hr,28836,33569,6541,22295,27028,22.68
+Perturb-seq,Rest_vs_Stim48hr,28836,28521,5753,23083,22768,19.95

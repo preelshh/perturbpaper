@@ -1,0 +1,9 @@
+,scPRINT2_CD4_rest,scPRINT2_CD4_act,scPRINT2_CD8_rest,scPRINT2_CD8_act,pySCENIC,Perturb-seq_CD4_Rest,Perturb-seq_CD4_Stim8hr,Perturb-seq_CD4_Stim48hr
+scPRINT2_CD4_rest,96,30,68,24,59,29,38,39
+scPRINT2_CD4_act,30,49,29,25,22,18,20,26
+scPRINT2_CD8_rest,68,29,102,32,77,29,40,35
+scPRINT2_CD8_act,24,25,32,63,27,26,31,29
+pySCENIC,59,22,77,27,208,85,98,95
+Perturb-seq_CD4_Rest,29,18,29,26,85,409,321,315
+Perturb-seq_CD4_Stim8hr,38,20,40,31,98,321,429,330
+Perturb-seq_CD4_Stim48hr,39,26,35,29,95,315,330,424
